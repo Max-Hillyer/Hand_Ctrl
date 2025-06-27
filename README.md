@@ -1,5 +1,5 @@
 # Hand_Ctrl
-Use Mouse_hands.py to control your computer with hand tracking.
+Use Mouse_hands.py to control your computer with hand tracking. 
 
 -The mouse will follow your pointer finger tip
 -Pinch your pointer and thumb to click
