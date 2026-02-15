@@ -11,5 +11,3 @@ Use Mouse_hands.py to control your computer with hand tracking.
 -In hotkey mode, pinch your pinky and thumb to undo
 
 I had tons of fun building this and I really hope you enjoy!
-
-If you find this interesting you can find me on Linkdin at https://www.linkedin.com/in/max-hillyer-8780a835a/
